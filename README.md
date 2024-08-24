@@ -1,4 +1,4 @@
 [Notion으로 후기 작성](https://cheddar-fur-68b.notion.site/da8a1067fd354f54a03149025c2e5e99?pvs=4)
 
 <h3>Results</h3> <!--https://github.com/incheonQ/roop-->
-![plot](/contents/outputs/output.png)
+![plot](/contents/outputs/output.png?raw=true "output image")
