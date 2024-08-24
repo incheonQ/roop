@@ -2,9 +2,9 @@
 
 <h3>Inputs</h3>
 <p>Face Image</p>
-<img src="/contents/kmk.png" alt="face image" title="Face Image" style="width:300px;height:300px" align="middle">
+<img src="/contents/kmk.png" alt="face image" title="Face Image" style="width:300px;height:300px">
 <p>Target Image</p>
 <img src="/contents/cuu.jpeg" alt="target image" title="Target Image" style="width:300px;height:300px">
 
 <h3>Outputs</h3>
-<img src="/contents/outputs/output.png" alt="output image" title="Output Image" style="width:300px;height:300px" align="middle">
+<img src="/contents/outputs/output.png" alt="output image" title="Output Image" style="width:300px;height:300px">
